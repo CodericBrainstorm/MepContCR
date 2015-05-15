@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/MEP-Cont-CR/app/Http/Controllers/TestController.php</file>
+            <file>file:/C:/xampp/htdocs/MEP-Cont-CR/app/Providers/RouteServiceProvider.php</file>
+            <file>file:/C:/xampp/htdocs/MEP-Cont-CR/app/Http/Controllers/BudgetsController.php</file>
+            <file>file:/C:/xampp/htdocs/MEP-Cont-CR/app/Models/Task.php</file>
+            <file>file:/C:/xampp/htdocs/MEP-Cont-CR/app/Models/Menu.php</file>
+            <file>file:/C:/xampp/htdocs/MEP-Cont-CR/app/Http/Controllers/MenuController.php</file>
+            <file>file:/C:/xampp/htdocs/MEP-Cont-CR/app/Http/Controllers/HomeController.php</file>
+            <file>file:/C:/xampp/htdocs/MEP-Cont-CR/config/app.php</file>
+            <file>file:/C:/xampp/htdocs/MEP-Cont-CR/app/Http/Controllers/Auth/AuthController.php</file>
+            <file>file:/C:/xampp/htdocs/MEP-Cont-CR/app/Models/User.php</file>
+            <file>file:/C:/xampp/htdocs/MEP-Cont-CR/app/Facades/MenuFacades.php</file>
+        </group>
+    </open-files>
+</project-private>
