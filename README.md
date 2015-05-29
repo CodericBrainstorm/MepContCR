@@ -1,2 +1,3 @@
-# Mep-Cont-CR
-Contabilidad de colegios publicos
+# MEP-Cont-CR
+Proyecto para llevar la contabilidad de los colegios públicos de Costa Rica.
+Alistandome para aportar

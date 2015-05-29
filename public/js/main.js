@@ -1,8 +1,8 @@
 var server        = "";
 var pathname      = document.location.pathname;
-var pathnameArray = pathname.split("/public/");
+var pathnameArray = pathname.split("/");
 
-server =  pathnameArray.length > 0 ? pathnameArray[0]+"/public/" : "";
+server =  pathnameArray.length > 0 ? pathnameArray[0]+"/" : "";
 
 /**
  * @param  {[string]} selector [id table]
@@ -178,6 +178,10 @@ $(function(){
 				addActive(element);
 			}
 		}
+	});
+
+	$('.submenu li a').on('click', function(){
+		window.location.href = $(this).attr('href');
 	});
 
 	//Switch Checkbox
@@ -611,7 +615,7 @@ $(function(){
 	
 	//Save School
 	$(document).off('click', '#saveSchool');
-	$(document).on('click', '#saveSchool', function(e){
+	$(document).on('click', '#saveSchool', function(e){ 
 		e.preventDefault();
 		url = $(this).data('url');
 		url = url + '/save-' + url;
